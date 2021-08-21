@@ -1,2 +1,2 @@
 # discord-spammer
-discord spammer made in C#
+discord spammer made in python
